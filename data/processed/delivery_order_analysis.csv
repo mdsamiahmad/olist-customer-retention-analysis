@@ -1,0 +1,4 @@
+delivery_status,total_orders,order_percentage,avg_delivery_days,avg_days_vs_estimate
+Late,7826,8.11,31.48,8.87
+"On Time",88644,91.88,10.82,-13.71
+Unknown,8,0.01,NULL,NULL
